@@ -1,0 +1,17 @@
+.vscode/
+.pytest_cache
+_dev/
+data/
+*.env
+flow_cytometry.json
+*.log
+__pycache__
+logs/
+*.crt
+!services/validate_data/rename_markers/data*
+!.dev.env
+
+# JetBrains IDE
+.idea/*
+
+**/.ipynb_checkpoints/
