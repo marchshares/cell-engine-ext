@@ -207,8 +207,25 @@ def process_experiments_by_names(experiment_names: list[str]):
 
 def main():
     experiments = [
-        "PICI_0002_6_Penn - pfg",
-        # "2902 PICI-0002 Ship_6410 (finalized Hierarchy) - pfg (DIANE COPY)"
+        'PICI0001-MAHLER'
+        'Phase2 data subset of the original 2902 (Phase1) dataset'
+        'PICI_0002_5_Penn - PFG'
+        'PICI0002-X50-Complete'
+        '2902 PICI-0002 Ship_4108 (Spitzer Hierarchy) - pfg'
+        '2902 PICI-0002 Ship_6216 (Spitzer Hierarchy) - pfg'
+        '2902 PICI-0002 Ship_6410 (finalized Hierarchy) - pfg'
+        '2902 PICI-0002 Ship_5687 (Spitzer Hierarchy) - pfg'
+        '2902 Clinical Samples-Spitzer-complete (original)'
+        '2902 (PICI-0002) Re-run Ship ID 6216  - pfg'
+        'PICI_0002_6_Penn - pfg'
+        'PICI_0002_Penn - pfg'
+        'PICI_0002_2_Penn - pfg'
+        'PICI_0002_3_Penn - pfg'
+        'PICI_0002_4_Penn - pfg'
+        '2902 PICI-0002 Ship_6410 (finalized Hierarchy) - pfg (DIANE COPY)'
+        '2902 PICI-0002 Ship_5687 (Spitzer Hierarchy) - Diane copy'
+        '2902 PICI-0002 Ship_4108 (Spitzer Hierarchy) - Diane copy'
+        '2902 PICI-0002 Ship_6216 (Spitzer Hierarchy) - Diane copy'
     ]
 
     process_experiments_by_names(experiments)
