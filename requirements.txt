@@ -1,0 +1,2 @@
+# pip install git+https://github.com/cellengine/cellengine-python-toolkit.git
+requests==2.31.0
