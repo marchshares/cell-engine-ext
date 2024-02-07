@@ -1,2 +1,30 @@
 # pip install git+https://github.com/cellengine/cellengine-python-toolkit.git
+boto3==1.34.36
+botocore==1.34.36
+cellengine @ git+https://github.com/cellengine/cellengine-python-toolkit.git@5d2685a27d0d05be69681715081eaf75b3313796
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+et-xmlfile==1.1.0
+FlowIO @ git+https://github.com/cellengine/FlowIO.git@fe3bcb7b0b9391e8e42483a23be2bd37ecc24b71
+idna==3.6
+jmespath==1.0.1
+joblib==1.3.2
+loguru==0.7.2
+numpy==1.26.4
+openpyxl==3.1.2
+pandas==1.5.3
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+pytz==2024.1
 requests==2.31.0
+requests-toolbelt==0.10.1
+s3transfer==0.10.0
+scikit-learn==1.4.0
+scipy==1.12.0
+six==1.16.0
+sklearn==0.0
+threadpoolctl==3.2.0
+urllib3==1.26.18
+win32-setctime==1.1.0
+
